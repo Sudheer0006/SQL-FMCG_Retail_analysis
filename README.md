@@ -4,15 +4,11 @@
 This project analyzes sales performance and promotional impact in the FMCG domain using SQL.  
 The objective is to evaluate how different promotional campaigns affected revenue and product performance.
 
----
-
 ## 📊 Dataset Used
 The project uses the following datasets:
 - dim_campaigns
 - dim_products
 - fact_events
-
----
 
 ## 🎯 Business Requests Solved
 
@@ -35,8 +31,6 @@ Revenue impact analysis including:
 - Percentage Change in Revenue
 - Product Ranking using RANK()
 
----
-
 ## 🛠️ SQL Skills Demonstrated
 - Joins
 - CTE (Common Table Expressions)
@@ -46,7 +40,6 @@ Revenue impact analysis including:
 - Percentage Calculations
 - Business KPI Analysis
 
----
 
 ## 📈 Key Insights
 - Heavy discounts increased sales volume but did not always improve revenue.
@@ -54,14 +47,13 @@ Revenue impact analysis including:
 - Ranking analysis helped identify top-performing products.
 - Promotional strategy directly impacts profitability.
 
----
 
 ## 🚀 Tools Used
 - MySQL
 - Excel (for dataset)
 - GitHub
 
----
+
 
 ## 💡 Conclusion
 This project demonstrates how SQL can be used not just for querying data, but for solving real-world business problems and evaluating promotional effectiveness in the FMCG industry.
